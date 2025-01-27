@@ -13,7 +13,7 @@ const Testimonials = () => {
             </div>
             <div className='mt-4 text-center'>
                     <p className='text-lg lg:text-xl'>{TESTIMONIAL.name}</p>
-                    <p className='text-sm'>{TESTIMONIAL.title}</p>
+                    <p className='text-sm'>Technical lead ,{TESTIMONIAL.title}</p>
             </div>
         </div>
         
